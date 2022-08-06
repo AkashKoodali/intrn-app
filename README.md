@@ -5,6 +5,8 @@ A new Flutter project.
 ## Getting Started
 
 This project is a starting point for a Flutter application.
+<h1>Getting started</h1>
+<img src= "starter.png" width= 200px>
 
 <h1>sign in</h1>
 <img src= "signin.png" width= 200px>
