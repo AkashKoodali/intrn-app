@@ -1,6 +1,7 @@
 # Intern_app
 
-A new Flutter project.
+User Sign In and Sign Up pages.
+Using Firebase - Bloc.
 
 ## Getting Started
 
